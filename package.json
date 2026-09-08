@@ -1,0 +1,15 @@
+{
+  "name": "conversor-temperatura-ci",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "test": "vitest run",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^7.1.4",
+    "vitest": "^3.2.4"
+  }
+}
